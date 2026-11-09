@@ -1,0 +1,1995 @@
+[
+  {
+    "id": 1,
+    "slug": "commercial-flat-roof-repair",
+    "name": "Commercial flat roof repair contractors",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "construction",
+      "trades",
+      "facilities",
+      "property"
+    ],
+    "buyer": "Owner of a commercial roofing company with one or two crews who still walks the roofs and writes the quotes.",
+    "calls_with": "Property managers, facility managers and owners of warehouses, strip malls and office buildings with flat roofs.",
+    "why_pay": "The owner is on a roof all day, so nobody is calling property managers between storms. One building manager can bring repeat repairs across a whole portfolio, which is worth far more than a single job.",
+    "offer": "I book intro calls with property managers who run flat roof buildings in your service area. You approve the list and the wording, and you pay for calls that meet the definition we agree in writing.",
+    "opening_message": "[First name], I saw the [real job from their site] reroof. If your next job depends on who calls you after a leak, I can put you in front of property managers before the leak happens. I book the intro calls and you only take the ones in your area. Want to see the list I would start with?",
+    "where_to_find": [
+      "Your state or province contractor licence lookup, filtered to roofing",
+      "Google Maps searches for commercial roofing by metro area",
+      "For their customers: local IREM and BOMA chapter member lists where public, and the manager names on office and industrial listing sites"
+    ],
+    "avoid": [
+      "Storm chasers who only want insurance jobs",
+      "Residential only roofers, because homeowners are not reachable by cold email",
+      "Repeating any warranty or leak free claim you cannot see in writing"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 5,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 81,
+    "score_note": "Portfolio customers make one call valuable and roofing licences make owners easy to list. Weather swings demand, and facility managers can be slow to answer email."
+  },
+  {
+    "id": 2,
+    "slug": "commercial-hvac-service-contracts",
+    "name": "Commercial HVAC service contractors selling maintenance contracts",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "facilities",
+      "construction"
+    ],
+    "buyer": "Owner of a commercial HVAC shop with a small service team who wants more contract work and fewer emergency only customers.",
+    "calls_with": "Facility managers at schools, churches, small manufacturers, office parks and medical buildings.",
+    "why_pay": "Maintenance contracts smooth out the slow months, but the people who could sign them are not searching until something breaks. The owner has dispatch to run and no time to open those doors.",
+    "offer": "I book calls with facility managers who are a fit for a planned maintenance agreement. You get the name, the building type and what they said, before you get on the call.",
+    "opening_message": "[First name], your [real service line from their site] work caught my eye. Contract customers are usually won before the rooftop unit fails, and that is the conversation I set up. I find facility managers near you and book the ones open to a maintenance quote. Should I send you a sample of 10 buildings?",
+    "where_to_find": [
+      "State mechanical or HVAC contractor licence lists",
+      "ACCA and local mechanical contractor association member pages where public",
+      "For their customers: school district and church staff pages, and local industrial park tenant lists"
+    ],
+    "avoid": [
+      "Shops with a full time sales rep already working contracts",
+      "Residential comfort companies, whose buyers are homeowners",
+      "Quoting energy savings you have not measured"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 5,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 5,
+      "open_field": 3
+    },
+    "total": 75,
+    "score_note": "Contracts recur, so a good call is worth a lot. Larger shops already have salespeople, which is why the first score is only middling."
+  },
+  {
+    "id": 3,
+    "slug": "tenant-improvement-electricians",
+    "name": "Commercial electrical contractors doing tenant fit outs",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "construction",
+      "trades",
+      "property"
+    ],
+    "buyer": "Master electrician who owns a small shop and bids tenant improvement work for offices, retail and clinics.",
+    "calls_with": "General contractors' estimators, commercial tenant fit out managers and small developers.",
+    "why_pay": "Getting on a general contractor's bid list is about being known to one estimator. The owner is usually on site or pricing work and rarely has a free hour to introduce himself.",
+    "offer": "I get you intro calls with estimators and project managers who run tenant fit outs near you, so your shop is on their list before the next bid goes out.",
+    "opening_message": "[First name], noticed your shop handled [real project from their site]. Getting on an estimator's bid list usually comes down to one short introduction, and I can set those up for you. I would only contact general contractors doing fit outs in [area]. Open to me sending the names first?",
+    "where_to_find": [
+      "State electrical contractor licence lookups",
+      "Local building permit records that list the electrical contractor",
+      "For their customers: AGC and ABC chapter member directories where public, and local general contractor websites"
+    ],
+    "avoid": [
+      "Shops that are at full capacity and will not take a new general contractor",
+      "Calling a bid list spot a won job",
+      "Any firm that wants you to imply union or non union status you have not confirmed"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 4,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 79,
+    "score_note": "Few people pitch this niche and permit records name real buyers. Field based owners and estimators are slower to reply by email."
+  },
+  {
+    "id": 4,
+    "slug": "commercial-janitorial-offices-clinics",
+    "name": "Commercial janitorial companies for offices and clinics",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "facilities",
+      "trades",
+      "healthcare"
+    ],
+    "buyer": "Owner of a local janitorial company with night crews, often still doing walkthroughs and quotes personally.",
+    "calls_with": "Office managers, practice managers and building managers at small offices and outpatient clinics.",
+    "why_pay": "Customers leave quietly and a replacement has to be found, so a steady flow of walkthroughs matters more than a one time burst. The owner runs crews at night and sells in whatever daylight is left.",
+    "offer": "I book walkthroughs with office and practice managers inside your route area, so new accounts land near the crews you already pay to drive there.",
+    "opening_message": "[First name], your [real detail, such as a clinic or office they clean] tells me you already do the harder buildings. I can book walkthroughs with office and practice managers close to your current routes, so new accounts do not stretch your crews. Would a list of nearby buildings be useful to look at?",
+    "where_to_find": [
+      "Google Maps for commercial cleaning by city",
+      "ISSA and BSCAI member search where public",
+      "For their customers: office park tenant lists and clinic websites that name a practice manager"
+    ],
+    "avoid": [
+      "Franchise units whose head office controls marketing",
+      "Anyone who will not state their insurance and bonding in writing",
+      "Competing only on price, which is where this niche gets crowded"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 3,
+      "findability": 5,
+      "email_reach": 4,
+      "steady_demand": 5,
+      "compliance_safety": 5,
+      "open_field": 1
+    },
+    "total": 73,
+    "score_note": "Easy to find, steady all year and low risk. It scores poorly on crowding because these owners and their customers already get pitched constantly."
+  },
+  {
+    "id": 5,
+    "slug": "parking-lot-sealcoating-striping",
+    "name": "Parking lot sealcoating and striping contractors",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "construction",
+      "trades",
+      "property",
+      "facilities"
+    ],
+    "buyer": "Owner operator who runs a small paving maintenance crew and quotes every job from his truck.",
+    "calls_with": "Property managers, retail plaza owners, church administrators and HOA boards.",
+    "why_pay": "The work is packed into warm months and the pipeline has to be full before the season opens. In winter the owner has time but no system for reaching managers.",
+    "offer": "Before your season starts, I fill your calendar with site walk calls from property managers who have lots that are due for sealcoating or restriping.",
+    "opening_message": "[First name], your [real lot or photo from their site] looks sharp. Managers usually decide on lot work before the warm months, so the winter is when I book those calls. I would contact plazas and office parks inside your drive radius. Want me to pull a first list for you?",
+    "where_to_find": [
+      "Google Maps for paving and sealcoating by county",
+      "State contractor lists where this trade is licensed",
+      "For their customers: retail plaza listings and property manager pages, plus satellite views to spot worn lots"
+    ],
+    "avoid": [
+      "Starting outreach in the middle of the season when crews are already booked",
+      "Promising a surface life in years",
+      "Taking on an owner with no winter cash to pay for pre season work"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 1,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 73,
+    "score_note": "Almost always owner sold and rarely pitched, but it is the most seasonal trade in this kit, which is why its steady demand score is the lowest possible."
+  },
+  {
+    "id": 6,
+    "slug": "hoa-business-park-landscape-maintenance",
+    "name": "Commercial landscape maintenance firms for HOAs and business parks",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "property",
+      "facilities"
+    ],
+    "buyer": "Owner of a landscape maintenance company with a few crews, trying to replace small residential accounts with larger contracts.",
+    "calls_with": "Community association managers, HOA board members and business park managers.",
+    "why_pay": "A single association contract can replace many small residential stops. Those contracts go through managers who rebid on a schedule, and the owner rarely knows when that window opens.",
+    "offer": "I find community association managers near your crews and book calls ahead of their contract renewals, so you are in the room when the bid comes up.",
+    "opening_message": "[First name], I noticed [real property or crew detail] on your site. Association contracts tend to be decided by one manager at renewal time, and I set up that first conversation well before then. Would it help if I showed you which managers run communities near your routes?",
+    "where_to_find": [
+      "Google Maps for commercial landscaping by region",
+      "NALP and state landscape association member pages where public",
+      "For their customers: Community Associations Institute chapter directories where public, and management company staff pages"
+    ],
+    "avoid": [
+      "Mow and blow operators who cannot carry a large site",
+      "Contacting individual homeowners in an association",
+      "Any pitch that ignores existing contract terms"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 2,
+      "compliance_safety": 5,
+      "open_field": 3
+    },
+    "total": 73,
+    "score_note": "Big contracts and clear decision makers, offset by seasonal demand in colder regions and slow, committee based buying."
+  },
+  {
+    "id": 7,
+    "slug": "fire-extinguisher-sprinkler-inspection",
+    "name": "Fire extinguisher and sprinkler inspection companies",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "us_first",
+    "experience_tags": [
+      "trades",
+      "facilities",
+      "safety"
+    ],
+    "buyer": "Owner of a local fire protection service company with a handful of inspectors and a route based business.",
+    "calls_with": "Facility managers, property managers, restaurant groups and small industrial sites.",
+    "why_pay": "Inspections repeat on a schedule, so each new account pays back over and over. Winning one means reaching the person whose current vendor has been slipping, and the owner has no one assigned to do that.",
+    "offer": "I book calls with building and facility managers near your routes who want a second quote on inspections, so each new account adds to work your team already drives past.",
+    "opening_message": "[First name], saw that you cover [real service area]. Inspection accounts come back every year, so one good introduction goes a long way. I book short calls with facility managers near your routes who are open to a second quote. Would you like to see who I would approach first?",
+    "where_to_find": [
+      "State fire marshal licence lists for fire protection companies",
+      "NAFED and NFSA member search where public",
+      "For their customers: property management firms and multi site restaurant owners in the service area"
+    ],
+    "avoid": [
+      "Suggesting a building is out of code, which you cannot know",
+      "Using scare wording about fires",
+      "Owners without the state licences their work needs"
+    ],
+    "compliance_note": "Inspection work is licensed in many states. Confirm the licence for each state you promote them in, and never tell a prospect their building fails code.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 4,
+      "open_field": 4
+    },
+    "total": 79,
+    "score_note": "Recurring by nature and steady all year. Licence checks add a small amount of risk, and buyers are spread across many building types."
+  },
+  {
+    "id": 8,
+    "slug": "restaurant-food-plant-pest-control",
+    "name": "Commercial pest control for restaurants and food plants",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "food_service",
+      "facilities"
+    ],
+    "buyer": "Owner of an independent pest control company who wants commercial routes instead of one off home visits.",
+    "calls_with": "Restaurant owners, multi unit operators and quality managers at small food plants.",
+    "why_pay": "Commercial accounts are monthly and predictable, but independents lose them to national brands that have sales teams. A local owner needs someone doing the introductions.",
+    "offer": "I book calls with restaurant groups and small food producers in your territory who want a local provider that answers the phone. You run the inspection and quote.",
+    "opening_message": "[First name], independent shops like [their company] usually lose restaurant accounts to national brands that have sales reps, not because the work is worse. I can do the outreach to multi unit operators and small food plants near you and book the calls. Worth seeing a list for [city]?",
+    "where_to_find": [
+      "State pesticide applicator and business licence lists",
+      "Google Maps for commercial pest control",
+      "For their customers: state restaurant association members where public, and health department permit lists"
+    ],
+    "avoid": [
+      "Quoting a restaurant's health inspection in the outreach",
+      "Any claim about pesticides being safe",
+      "National franchise locations with their own marketing rules"
+    ],
+    "compliance_note": "Pesticide work is licensed and product claims are restricted. Keep messages to service and response time, and do not make safety claims about chemicals.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 3,
+      "findability": 5,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 4,
+      "open_field": 3
+    },
+    "total": 72,
+    "score_note": "Public licence and permit lists make it easy to find, and revenue is monthly. Value per account is moderate and the national brands are strong."
+  },
+  {
+    "id": 9,
+    "slug": "commercial-kitchen-exhaust-cleaning",
+    "name": "Commercial kitchen exhaust hood cleaning companies",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "food_service",
+      "facilities",
+      "safety"
+    ],
+    "buyer": "Owner operator of a small hood cleaning crew who works nights and sells during the day when he should be sleeping.",
+    "calls_with": "Restaurant owners, hotel kitchen managers, school food service directors and senior living kitchens.",
+    "why_pay": "Restaurants need this cleaning on a repeating schedule, so every new kitchen is recurring route work. The owner works overnight and has almost no hours left to reach new accounts.",
+    "offer": "I book calls with restaurant owners and kitchen managers along the routes you already run at night, so you add kitchens without adding driving.",
+    "opening_message": "[First name], since hood cleaning happens overnight, I am guessing daytime sales is the part that gets squeezed. I can book the calls with kitchens along your existing routes while you sleep. You just show up and quote. Should I map the first 20 kitchens around [area]?",
+    "where_to_find": [
+      "Google Maps for hood cleaning and exhaust cleaning",
+      "Certification lists from IKECA where public",
+      "For their customers: county health department restaurant permit lists and chain restaurant location pages"
+    ],
+    "avoid": [
+      "Telling a kitchen it is a fire hazard",
+      "Owners who are not insured for this work",
+      "Claiming a certificate satisfies their insurer, which only the insurer can say"
+    ],
+    "compliance_note": "Local fire code and insurers set how often cleaning is needed. Let the customer's fire marshal and insurer answer that question, not your message.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 3,
+      "findability": 5,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 4,
+      "open_field": 4
+    },
+    "total": 82,
+    "score_note": "Owner sold, recurring and easy to list from public permits. Restaurant owners are hard to reach by email, and each kitchen is modest in value."
+  },
+  {
+    "id": 10,
+    "slug": "loading-dock-commercial-door-repair",
+    "name": "Commercial door and loading dock repair companies",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "facilities",
+      "logistics"
+    ],
+    "buyer": "Owner of a dock and overhead door service company with a few vans, usually a former technician.",
+    "calls_with": "Warehouse managers, distribution center facility leads and plant maintenance managers.",
+    "why_pay": "Broken doors stop a warehouse, so the customer who already knows you calls you first. The owner needs to be that name before the next failure, and no one is working on that today.",
+    "offer": "I book short calls with warehouse and plant maintenance managers so you become their first call when a dock door fails, and can quote a preventive plan.",
+    "opening_message": "[First name], the first call a warehouse makes when a dock door jams usually goes to whoever they already know. I make sure that is you, by booking short intro calls with maintenance managers near your vans. Want to see the warehouses I would go after first?",
+    "where_to_find": [
+      "Google Maps for dock equipment and commercial door repair",
+      "Manufacturer dealer locators for door and dock brands",
+      "For their customers: industrial park tenant lists and logistics company site pages"
+    ],
+    "avoid": [
+      "Dealers locked to one manufacturer's territory rules",
+      "Promising response times the owner has not confirmed",
+      "Sending the same pitch to home garage door companies"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 3,
+      "findability": 3,
+      "email_reach": 3,
+      "steady_demand": 4,
+      "compliance_safety": 5,
+      "open_field": 5
+    },
+    "total": 78,
+    "score_note": "One of the quietest niches in the kit for outreach. Harder to find the right maintenance contact, and accounts are useful rather than large."
+  },
+  {
+    "id": 11,
+    "slug": "backflow-testing-certification",
+    "name": "Backflow testing and certification companies",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "us_first",
+    "experience_tags": [
+      "trades",
+      "facilities"
+    ],
+    "buyer": "Owner of a small backflow testing business, often a plumber who holds the tester certification.",
+    "calls_with": "Property managers, HOA managers and restaurant and retail groups with many water connections.",
+    "why_pay": "Tests repeat on a cycle set by the local water utility, so a property manager with many buildings means a route of renewals. The owner is out testing, not making calls.",
+    "offer": "I book calls with property managers who hold many water connections, so your renewals grow in blocks instead of one address at a time.",
+    "opening_message": "[First name], I know backflow tests come back on a set cycle, so a manager with many buildings is worth more than any single address. I can book calls with those managers near you. Could I send a short list of the ones I found around [city]?",
+    "where_to_find": [
+      "Water utility lists of approved backflow testers, which many utilities publish",
+      "State plumbing licence lookups",
+      "For their customers: property management company pages and HOA management firms"
+    ],
+    "avoid": [
+      "Sounding like an official notice from the water utility",
+      "Very small one person testers with no capacity for more routes",
+      "Stating a due date you cannot verify"
+    ],
+    "compliance_note": "Tester certification and test cycles are set locally. Never imitate a utility notice or imply a prospect is overdue.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 2,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 4,
+      "open_field": 5
+    },
+    "total": 73,
+    "score_note": "Barely anyone pitches these owners, and utilities publish them. Value per test is small, so it only works with managers who hold many sites."
+  },
+  {
+    "id": 12,
+    "slug": "water-damage-restoration-property-accounts",
+    "name": "Water damage restoration firms winning property manager accounts",
+    "category": "Commercial trades",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "property",
+      "insurance",
+      "facilities"
+    ],
+    "buyer": "Owner of an independent restoration company that lives on emergencies and wants a preferred vendor relationship.",
+    "calls_with": "Property managers, HOA managers, facility directors and commercial insurance adjusters.",
+    "why_pay": "A preferred vendor spot with a manager means repeat emergency work without bidding each time. Owners know this and try to win those spots, but crews come first.",
+    "offer": "I book intro meetings with property managers who do not yet have a restoration vendor they trust, so you are on their list before the next burst pipe.",
+    "opening_message": "[First name], when a pipe bursts at 2 in the morning, a manager calls the name already on their list. I book intro calls so that name is [their company], starting with managers who run older buildings near you. Would you like the first batch of names?",
+    "where_to_find": [
+      "IICRC certified firm locator",
+      "Google Maps for water damage restoration",
+      "For their customers: IREM and community association management directories where public"
+    ],
+    "avoid": [
+      "Paying or promising anything to a manager in return for referrals",
+      "Contacting people who just had a loss",
+      "Franchises with a national call center"
+    ],
+    "compliance_note": "Some states restrict how restoration firms deal with claims and adjusters. Keep the offer to introductions, and never suggest how a claim should be handled.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 5,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 4,
+      "open_field": 2
+    },
+    "total": 74,
+    "score_note": "High value relationships with reachable managers. Larger firms already pay for marketing, and managers hear this pitch often."
+  },
+  {
+    "id": 13,
+    "slug": "independent-property-managers",
+    "name": "Independent residential property managers",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "property",
+      "real_estate"
+    ],
+    "buyer": "Owner of a local property management firm with a small team, looking after rentals for individual landlords.",
+    "calls_with": "Small landlords and owners of a few rental units who are tired of managing their own property.",
+    "why_pay": "Each new landlord brings monthly management fees for years. These owners rarely market well, and their growth usually depends on referrals.",
+    "offer": "I book calls with small landlords in your area who are thinking of handing over their rentals, so you can add doors without buying another portfolio.",
+    "opening_message": "[First name], your [real neighbourhood or building detail] suggests you know this market well. Adding doors usually comes down to reaching landlords before they get fed up, and I can do that outreach and book the calls. Could I show you how I would find owners in [city]?",
+    "where_to_find": [
+      "NARPM member search where public",
+      "Google Maps for property management by city",
+      "For their customers: county assessor records and LLC filings for small landlords, which often lack an email address"
+    ],
+    "avoid": [
+      "Sending anything that could be read as steering by protected class",
+      "Emailing homeowners who are not landlords",
+      "Buying landlord lists with unknown consent"
+    ],
+    "compliance_note": "Property management is a licensed activity in many places and fair housing rules apply to how rentals are marketed. Have the client confirm their licence and approve all wording.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 3,
+      "email_reach": 2,
+      "steady_demand": 5,
+      "compliance_safety": 3,
+      "open_field": 3
+    },
+    "total": 69,
+    "score_note": "Recurring income makes a call valuable. The weak point is delivery: small landlords often have no public business email, so reach is low."
+  },
+  {
+    "id": 14,
+    "slug": "solo-tenant-rep-brokers",
+    "name": "Solo commercial tenant representation brokers",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "real_estate",
+      "property"
+    ],
+    "buyer": "Independent commercial real estate broker who represents tenants and depends on personal relationships for deals.",
+    "calls_with": "Business owners and office managers whose leases are likely to come up in the next year or two.",
+    "why_pay": "One lease can be worth a lot to a solo broker, and the hard part is reaching a tenant before the landlord's agent does. Timing is everything and nobody is doing that research for them.",
+    "offer": "I find businesses likely to be near a lease decision and book short calls for you, so you are advising them before they renew by default.",
+    "opening_message": "[First name], I noticed you work the tenant side in [market]. Most renewals happen by default because no one calls the tenant early enough. I research companies likely to be near a lease decision and book the conversation for you. Is that a problem worth 10 minutes?",
+    "where_to_find": [
+      "State real estate licence lookups",
+      "Brokerage sites and CCIM or SIOR member search where public",
+      "For their customers: company growth signals such as hiring pages, and business news for local moves"
+    ],
+    "avoid": [
+      "Paying an unlicensed person per deal, which many states forbid",
+      "Claiming you know a company's lease date",
+      "Brokers with a team and an in house researcher"
+    ],
+    "compliance_note": "Real estate brokerage is licensed and many states restrict sharing commission with unlicensed people. Charge a flat service fee for outreach, never a share of commission, and check the state rules.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 5,
+      "findability": 3,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 3,
+      "open_field": 3
+    },
+    "total": 79,
+    "score_note": "The value of one signed tenant is very high for a solo broker. Finding the right timing takes real research, and licensing limits how you can be paid."
+  },
+  {
+    "id": 15,
+    "slug": "home-inspectors-selling-to-agents",
+    "name": "Home inspection firms selling to real estate agents",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "us_first",
+    "experience_tags": [
+      "real_estate",
+      "trades",
+      "property"
+    ],
+    "buyer": "Owner operator of a home inspection company who gets most of the work from agents who trust them.",
+    "calls_with": "Residential real estate agents and team leads who order inspections for their buyers.",
+    "why_pay": "An agent who likes your reports can send repeat work all year. Inspectors spend the day in crawl spaces and do not have time to build those relationships.",
+    "offer": "I book 15 minute intro calls with active agents in your area, so they see how you write a report before their next deal needs one.",
+    "opening_message": "[First name], agents tend to stick with an inspector whose reports are clear and calm for their buyers, and I would love to help more of them see yours. I book short intro calls with active agents near you. Want me to send the first 10 names?",
+    "where_to_find": [
+      "State home inspector licence lists",
+      "ASHI and InterNACHI inspector search",
+      "For their customers: brokerage agent rosters and local MLS agent pages"
+    ],
+    "avoid": [
+      "Any deal that rewards an agent for a referral",
+      "Promising agents a soft report",
+      "Inspectors who are fully booked in busy months"
+    ],
+    "compliance_note": "Referral payments around home sales can raise problems under real estate settlement rules, and inspector licences vary by state. Never offer an agent anything of value for sending work.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 2,
+      "findability": 5,
+      "email_reach": 5,
+      "steady_demand": 2,
+      "compliance_safety": 4,
+      "open_field": 2
+    },
+    "total": 74,
+    "score_note": "Very easy to find and email both sides. A single inspection is small, demand follows the housing market, and agents hear this pitch often."
+  },
+  {
+    "id": 16,
+    "slug": "real-estate-photo-video-media",
+    "name": "Real estate photography and video companies",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "real_estate",
+      "events"
+    ],
+    "buyer": "Owner of a small real estate media business who shoots listings and edits at night.",
+    "calls_with": "Listing agents, team leads and brokerage marketing coordinators.",
+    "why_pay": "A good agent brings repeat shoots, and every agent has been pitched by a photographer. The owner needs conversations with agents who list often, not more follows on social media.",
+    "offer": "I book short calls with agents who list often in your area, starting with the ones whose current photos clearly undersell the home.",
+    "opening_message": "[First name], your [real shoot or property] really showed the space well. I look for agents who list often in [area] and whose photos do not match their homes, and I book a short call for you. Should I send the names I would start with?",
+    "where_to_find": [
+      "Google Maps and Instagram for real estate photographers",
+      "Local photographer lists from brokerages",
+      "For their customers: public listing portals, sorted by agents with many active listings"
+    ],
+    "avoid": [
+      "Criticising an agent's current photographer by name",
+      "Using another photographer's images in the outreach",
+      "Promising a home will sell faster"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 1,
+      "findability": 4,
+      "email_reach": 5,
+      "steady_demand": 3,
+      "compliance_safety": 5,
+      "open_field": 2
+    },
+    "total": 71,
+    "score_note": "Reachable, low risk and owner sold. Each shoot is small, so even a good month of calls may not cover a real monthly fee."
+  },
+  {
+    "id": 17,
+    "slug": "land-surveying-firms",
+    "name": "Land surveying firms",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "engineering",
+      "construction",
+      "real_estate"
+    ],
+    "buyer": "Licensed surveyor who owns a small firm and spends most of the week in the field or checking plats.",
+    "calls_with": "Civil engineers, developers, title companies and commercial real estate attorneys.",
+    "why_pay": "Work comes through a small group of repeat referrers, and when one of them retires the firm feels it. The owner is licensed to do the work and has never had to sell it.",
+    "offer": "I book intro calls with civil engineers, developers and title officers in your county, so you add repeat referrers rather than single jobs.",
+    "opening_message": "[First name], I see you cover [real county or project type]. Surveying work seems to run on a few repeat referrers, so adding even one new one matters. I book intro calls with engineers, developers and title officers near you. Could I show you the names I found?",
+    "where_to_find": [
+      "State board of professional surveyors licence lists",
+      "State surveying society member directories where public",
+      "For their customers: state engineering licence lists and local development and title company sites"
+    ],
+    "avoid": [
+      "Firms backlogged for months, who cannot take more work",
+      "Claiming technical credentials for them you have not checked",
+      "Pitching individual homeowners"
+    ],
+    "compliance_note": "Surveying is a licensed profession and some states limit how licensees market. Have the licensee approve the wording.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 4,
+      "open_field": 5
+    },
+    "total": 80,
+    "score_note": "Owners rarely sell and almost no one is pitching them. Value per job is moderate, and business follows local construction activity."
+  },
+  {
+    "id": 18,
+    "slug": "phase-one-environmental-consultants",
+    "name": "Environmental site assessment consultants",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "us_first",
+    "experience_tags": [
+      "environmental",
+      "engineering",
+      "real_estate"
+    ],
+    "buyer": "Principal of a small environmental consulting firm that writes Phase I reports for property transactions.",
+    "calls_with": "Commercial lenders, real estate attorneys, commercial brokers and small developers.",
+    "why_pay": "Reports are ordered by a small group of repeat people such as lenders and attorneys, and the work is steady when you are on their approved list. Principals are technical and do not enjoy cold outreach.",
+    "offer": "I book intro calls with commercial lenders and real estate attorneys who order site assessments, so your firm gets on their approved list.",
+    "opening_message": "[First name], I saw your firm handles [real report type or region]. Assessments tend to go to whoever is already on a lender's approved list, and that is the introduction I set up. Want to see which lenders and attorneys near you I would contact first?",
+    "where_to_find": [
+      "State environmental professional or geologist licence lists",
+      "Consultant directories from state environmental agencies",
+      "For their customers: community bank commercial lending pages and real estate attorney sites"
+    ],
+    "avoid": [
+      "Saying a site is clean or dirty before any work",
+      "Firms with no professional liability cover",
+      "Attorneys contacted as if for legal services"
+    ],
+    "compliance_note": "Some states license environmental professionals. Avoid any statement about the condition of a specific site.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 4,
+      "open_field": 5
+    },
+    "total": 78,
+    "score_note": "Very few outreach services work this niche, and buyers repeat. A single report is worth less than the work that sometimes follows it."
+  },
+  {
+    "id": 19,
+    "slug": "ev-charger-installers-multifamily",
+    "name": "EV charger installers for apartments and workplaces",
+    "category": "Property and built environment",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "trades",
+      "property",
+      "construction",
+      "environmental"
+    ],
+    "buyer": "Owner of an electrical company that has added EV charging installation for commercial sites.",
+    "calls_with": "Apartment owners, HOA boards, workplace facility managers and small fleet operators.",
+    "why_pay": "Site owners are still working out whether to add chargers, and the job is usually large once they decide. The installer needs someone having those early conversations.",
+    "offer": "I book calls with apartment owners and facility managers who are looking at charging, so you can scope the site before they ask three other companies.",
+    "opening_message": "[First name], apartment owners keep getting asked about charging, and most of them do not know where to start. I can find the ones near you and book a short scoping call. Interested in seeing which properties around [area] I would reach out to?",
+    "where_to_find": [
+      "State electrical licence lookups combined with EV charger brand installer lists",
+      "Google Maps for EV charger installation",
+      "For their customers: apartment association members where public and office park management firms"
+    ],
+    "avoid": [
+      "Quoting rebates or tax credits that may have changed",
+      "Promising revenue from charging",
+      "Sites where the electrical service clearly cannot support chargers"
+    ],
+    "compliance_note": "Incentive programs change often. Never state an incentive or tax credit in a message without checking the current official page that day.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 3,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 4,
+      "open_field": 3
+    },
+    "total": 70,
+    "score_note": "Large jobs but an early market. Who decides varies a lot by property, and incentives can move demand quickly."
+  },
+  {
+    "id": 20,
+    "slug": "employer-immigration-law-firms",
+    "name": "Immigration law firms serving employers",
+    "category": "Legal",
+    "regulated": "legal",
+    "geo": "us_first",
+    "experience_tags": [
+      "legal",
+      "hr_recruiting"
+    ],
+    "buyer": "Managing attorney of a small immigration firm that handles work visas for companies.",
+    "calls_with": "HR leads and founders at companies that hire foreign nationals.",
+    "why_pay": "Employer clients bring repeat filings, unlike a single family case. The attorney is at capacity on casework and has no one reaching out to HR teams.",
+    "offer": "I book calls with HR leaders who hire internationally. Your firm reviews and approves every word and every name before anything is sent, and you pay a flat service fee.",
+    "opening_message": "[First name], your firm's [real practice page or article] on employer visas was clear. Companies that sponsor workers tend to need the same help every year, and I can arrange introductions with their HR leads, with every message cleared by you first. Would a flat fee pilot be worth discussing?",
+    "where_to_find": [
+      "Firm websites and AILA lawyer search where its terms allow",
+      "Google Maps for business immigration attorney",
+      "For their customers: companies that publish sponsored roles and US Department of Labor public disclosure data on visa filings"
+    ],
+    "avoid": [
+      "Contacting individual workers about their status",
+      "Any pay per client or share of fees arrangement",
+      "Messages that sound like legal advice or predict an outcome"
+    ],
+    "compliance_note": "Lawyer advertising and direct contact are governed by state bar rules based on the ABA Model Rules (Rules 7.2 and 7.3 cover advertising and direct contact). Paying per booked client can raise problems around payments for recommendations and fee sharing. Use a flat fee, have the lawyer approve every message, and get the firm's ethics counsel or state bar guidance before you start. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 1,
+      "open_field": 3
+    },
+    "total": 70,
+    "score_note": "Employer clients are valuable and public filing data helps you find them. Lawyer marketing rules are strict, so the compliance score is the lowest possible."
+  },
+  {
+    "id": 21,
+    "slug": "employment-law-boutiques-employers",
+    "name": "Employment law boutiques serving small employers",
+    "category": "Legal",
+    "regulated": "legal",
+    "geo": "us_first",
+    "experience_tags": [
+      "legal",
+      "hr_recruiting"
+    ],
+    "buyer": "Partner at a small employment law practice that defends and advises employers.",
+    "calls_with": "Owners and HR managers at firms with enough staff to need an outside employment lawyer.",
+    "why_pay": "Retainers from growing employers are steady, but owners tend to look for a lawyer only when something has gone wrong. A partner wants that relationship started earlier.",
+    "offer": "I book calls with owners and HR managers who want an employment lawyer on hand before they have a problem. You approve all messaging and pay a flat service fee.",
+    "opening_message": "[First name], your [real article or talk] on handbook updates was useful. Employers often look for counsel only after a problem starts, and I can arrange earlier introductions with owners and HR managers near you, with your approval on every message. Is that worth a short talk?",
+    "where_to_find": [
+      "Firm websites and local bar employment section speaker lists",
+      "Google Maps for employment attorneys for employers",
+      "For their customers: local chambers of commerce and companies posting HR roles"
+    ],
+    "avoid": [
+      "Mentioning a lawsuit or complaint against the prospect",
+      "Bulk collecting bar directories, some of which forbid commercial use",
+      "Anything that reads as legal advice"
+    ],
+    "compliance_note": "Lawyer advertising and direct contact are governed by state bar rules based on the ABA Model Rules (Rules 7.2 and 7.3 cover advertising and direct contact). Payment per booked client can raise problems around recommendations and fee sharing. Use a flat fee and get the firm's written sign off on the message and the list. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 3,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 1,
+      "open_field": 3
+    },
+    "total": 69,
+    "score_note": "Steady demand and reachable HR contacts. Finding employers at the right moment is hard, and compliance is the main barrier."
+  },
+  {
+    "id": 22,
+    "slug": "trademark-ip-firms-consumer-brands",
+    "name": "Trademark and small IP firms for consumer brands",
+    "category": "Legal",
+    "regulated": "legal",
+    "geo": "us_first",
+    "experience_tags": [
+      "legal",
+      "software"
+    ],
+    "buyer": "Solo or two lawyer IP firm that files trademarks for small brands and founders.",
+    "calls_with": "Founders of new consumer brands and small ecommerce companies.",
+    "why_pay": "Brand owners often delay trademark work until someone copies them, and a solo lawyer has no time to reach them early. Each client can come back for later filings.",
+    "offer": "I book calls with founders of growing consumer brands who have not protected their name yet. Your firm approves every message and pays a flat service fee.",
+    "opening_message": "[First name], your [real post or guide] explained trademark classes simply. Founders tend to think about this only after a copycat shows up, so I would like to arrange earlier conversations with new consumer brands, with your approval on each message. Would that fit how you take on clients?",
+    "where_to_find": [
+      "USPTO public attorney records and firm sites",
+      "Google Maps for trademark attorney",
+      "For their customers: new brand launches on ecommerce sites and startup directories"
+    ],
+    "avoid": [
+      "Sending anything that looks like an official trademark notice",
+      "Telling a brand its mark is unprotected without a real search by the lawyer",
+      "Volume filing mills"
+    ],
+    "compliance_note": "Lawyer advertising and direct contact are governed by state bar rules based on the ABA Model Rules, and practising before the USPTO has its own rules. Scam notices that imitate trademark offices are a known problem, so your message must never look official. Flat fee only, lawyer approves all wording. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 2,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 1,
+      "open_field": 3
+    },
+    "total": 68,
+    "score_note": "Solo lawyers have no sales help, but a single filing is small and lawyer marketing rules are strict."
+  },
+  {
+    "id": 23,
+    "slug": "small-cpa-firms-business-clients",
+    "name": "Small CPA firms wanting business tax and advisory clients",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "us_first",
+    "experience_tags": [
+      "accounting",
+      "finance"
+    ],
+    "buyer": "Owner CPA of a firm with a few staff who wants fewer simple returns and more business clients.",
+    "calls_with": "Owners of established small businesses who have outgrown their current tax preparer.",
+    "why_pay": "A business client pays more over many years than a personal return, but partners are buried in deadlines for much of the year and do not market when they have time to.",
+    "offer": "I book calls with business owners who need more than a once a year tax return. You approve the wording, and I work around your busy season.",
+    "opening_message": "[First name], I noticed you focus on [real niche or service]. Business owners often stay with a preparer they have outgrown, because no one offers an alternative at the right time. I can book those calls for you outside of busy season. Could I show you who I would contact?",
+    "where_to_find": [
+      "State board of accountancy licensee lookups",
+      "AICPA and state society firm finders where public",
+      "For their customers: local chambers of commerce and industry association member lists"
+    ],
+    "avoid": [
+      "Outreach during the weeks before a filing deadline",
+      "Promising tax savings of any amount",
+      "Implying the firm has reviewed the prospect's returns"
+    ],
+    "compliance_note": "CPAs answer to their state board, and professionals practising before the IRS are bound by Treasury Circular 230, which covers conduct including solicitation. Never promise a tax outcome, and have the licensee approve all wording. This is not legal or tax advice.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 2,
+      "open_field": 2
+    },
+    "total": 74,
+    "score_note": "Clients last for years and licence lookups are public. Deadline seasons break the calendar, and professional rules limit what you can promise."
+  },
+  {
+    "id": 24,
+    "slug": "construction-bookkeeping-firms",
+    "name": "Bookkeeping firms specialised in contractors",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "global",
+    "experience_tags": [
+      "accounting",
+      "construction",
+      "trades"
+    ],
+    "buyer": "Owner of a small bookkeeping firm that focuses on construction and trade businesses.",
+    "calls_with": "Owners and office managers at contracting companies with messy job costing.",
+    "why_pay": "Monthly clients stay for a long time, and specialists can charge more than generalists. The owner is usually doing the books and finds it hard to step out to sell.",
+    "offer": "I book calls with contractors whose job costing is a mess, so you get clients who need a specialist and not just someone to enter receipts.",
+    "opening_message": "[First name], specialising in contractors is smart, because job costing is where general bookkeepers tend to struggle. I can reach out to trade business owners near you and book calls with the ones who know their numbers are behind. Would you like to see a sample list?",
+    "where_to_find": [
+      "Directories from accounting software partner programs",
+      "Google Maps and professional bookkeeper association member lists",
+      "For their customers: state contractor licence lists"
+    ],
+    "avoid": [
+      "Claiming a bookkeeper can give tax advice",
+      "Owners who already have more clients than they can handle",
+      "Any claim about how much money you will find them"
+    ],
+    "compliance_note": "Bookkeeping is lightly regulated in many places, but tax advice is not. Keep promises to organised books and on time reports, and do not imply tax or audit services the firm is not licensed to give.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 4,
+      "open_field": 3
+    },
+    "total": 77,
+    "score_note": "Monthly revenue and a clear pain point. It scores steady all year. Contractors are slow on email, which holds it back."
+  },
+  {
+    "id": 25,
+    "slug": "fractional-cfo-firms",
+    "name": "Fractional CFO firms",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "global",
+    "experience_tags": [
+      "finance",
+      "accounting",
+      "software"
+    ],
+    "buyer": "Solo fractional CFO or a small group of them, mostly selling through their own network.",
+    "calls_with": "Founders and owners who have outgrown their bookkeeper and need help with cash, pricing or raising capital.",
+    "why_pay": "Referrals dry up without warning and most fractional CFOs have no pipeline of their own. A single retained client is meaningful, so a few well matched calls can change a year.",
+    "offer": "I book calls with owners who have recently hit a growth trigger, like a funding round or a big hire. You only speak with companies that fit your industry focus.",
+    "opening_message": "[First name], I saw you work mainly with [real industry]. Referrals are great until they stop, so I look for companies that just hit a trigger such as a funding round or a big hire, and book the call. Could I send you three examples from this month?",
+    "where_to_find": [
+      "LinkedIn profiles reviewed by hand, never scraped or automated",
+      "Fractional executive networks and their member pages",
+      "For their customers: funding news, job posts for finance roles and industry association lists"
+    ],
+    "avoid": [
+      "Describing a company's finances from guesswork",
+      "Anyone calling themselves a CFO with no real finance background",
+      "Automating LinkedIn, which its terms bar"
+    ],
+    "compliance_note": "If the work touches securities, investment advice or fundraising, licensing rules can apply. Keep the offer to internal finance leadership and have the client confirm what they are allowed to do.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 4,
+      "findability": 3,
+      "email_reach": 5,
+      "steady_demand": 4,
+      "compliance_safety": 3,
+      "open_field": 1
+    },
+    "total": 76,
+    "score_note": "Owner sold, reachable and valuable, with a large number of people already pitching the same audience, which is why it scores 1 on how crowded it is."
+  },
+  {
+    "id": 26,
+    "slug": "rd-tax-credit-consultants",
+    "name": "R and D tax credit consultants",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "us_only",
+    "experience_tags": [
+      "accounting",
+      "finance",
+      "manufacturing",
+      "software"
+    ],
+    "buyer": "Owner of a small R and D credit study firm, often a former CPA or engineer.",
+    "calls_with": "Owners of small manufacturers, engineering firms and software companies.",
+    "why_pay": "Every client is a sizeable engagement, but the niche depends on outbound and competition is heavy. Small firms lose out to larger ones with sales teams.",
+    "offer": "I book calls with owners of manufacturers and engineering firms who have not looked at this credit with their own CPA. Your firm reviews all wording before it goes out.",
+    "opening_message": "[First name], since you work with [real industry], you have probably seen owners who never had this credit looked at properly. I can book calls with those owners, with your firm approving the wording. Would you like to see how I would explain it without overpromising?",
+    "where_to_find": [
+      "AICPA and tax credit consultant association lists",
+      "Google Maps for R and D tax credit consultants",
+      "For their customers: state manufacturing association members and engineering firm lists"
+    ],
+    "avoid": [
+      "Any promise of a credit or a dollar figure",
+      "Contingent fee structures you have not had reviewed",
+      "Firms that use aggressive claims about what qualifies"
+    ],
+    "compliance_note": "This area gets IRS attention. Practitioners are bound by Treasury Circular 230, and promising a credit amount can mislead. Use no dollar figures, and have the licensed professional approve every message. This is not tax advice.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 2,
+      "open_field": 1
+    },
+    "total": 64,
+    "score_note": "Good value per client, but it is pitched heavily, larger firms have sales teams and marketing claims carry real risk."
+  },
+  {
+    "id": 27,
+    "slug": "commercial-insurance-agencies-contractors",
+    "name": "Independent commercial insurance agencies for contractors",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "us_first",
+    "experience_tags": [
+      "insurance",
+      "construction",
+      "trades"
+    ],
+    "buyer": "Principal of an independent insurance agency writing general liability and workers compensation for contractors.",
+    "calls_with": "Owners and office managers at small contracting companies.",
+    "why_pay": "Policies renew each year, so a new account pays back over time. Agencies wait for renewals to come to them, and principals still spend their days on service work.",
+    "offer": "I book renewal review calls with contractors in your state ahead of their policy date, so you get the first look instead of the last.",
+    "opening_message": "[First name], I see you write a lot of [real line, such as contractor liability]. Contractors tend to shop their policy only days before renewal, which leaves no real time to compare. I book earlier review calls for you. Is that useful for your agency?",
+    "where_to_find": [
+      "State insurance department agent lookups",
+      "Carrier agent locators and Big I association member lists",
+      "For their customers: state contractor licence lists"
+    ],
+    "avoid": [
+      "Quoting premiums or savings in any message",
+      "Advertising coverage an agent is not appointed to sell",
+      "Claiming to know a contractor's renewal date"
+    ],
+    "compliance_note": "Insurance is licensed state by state, and unlicensed people generally cannot discuss coverage or quote. Your role stops at booking the call. Do not discuss terms or prices, and do not take a share of commission unless a licensed professional confirms it is allowed.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 2,
+      "open_field": 2
+    },
+    "total": 64,
+    "score_note": "Recurring and easy to find, but agencies already have marketing vendors and licensing limits what an outreach service can say."
+  },
+  {
+    "id": 28,
+    "slug": "employee-benefits-brokers-small-employers",
+    "name": "Employee benefits brokers for small employers",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "us_only",
+    "experience_tags": [
+      "insurance",
+      "hr_recruiting",
+      "finance"
+    ],
+    "buyer": "Owner of a small benefits brokerage that helps employers choose group health and related plans.",
+    "calls_with": "Owners and HR managers at employers with roughly 10 to 100 staff.",
+    "why_pay": "One employer group renews every year, so winning a new one matters. Brokers get overwhelmed in the open enrollment period and neglect prospecting the rest of the year.",
+    "offer": "I book calls with employers well ahead of their renewal, so you get a chance to review the plan outside of open enrollment.",
+    "opening_message": "[First name], I noticed your focus on [real group size or sector]. Employers tend to stay with the same broker because no one calls them months before renewal, so I arrange those early calls. Would a list of employers near you be a useful start?",
+    "where_to_find": [
+      "State insurance department licence lookups",
+      "National benefits association member lists where public",
+      "For their customers: US Department of Labor Form 5500 public filings, local chambers and job posts for HR roles"
+    ],
+    "avoid": [
+      "Quoting plan prices or savings",
+      "Handling employee health details",
+      "Contacting employees rather than the decision maker"
+    ],
+    "compliance_note": "Benefits brokers are licensed by state. Group health information can be protected, so never request or handle employee health data. You book the call, and the licensed broker handles every plan detail. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 2,
+      "compliance_safety": 2,
+      "open_field": 2
+    },
+    "total": 64,
+    "score_note": "Good retention, with outreach that works mostly outside open enrollment. Regulation and existing broker relationships reduce the score."
+  },
+  {
+    "id": 29,
+    "slug": "retirement-plan-advisers-small-employers",
+    "name": "Retirement plan advisers for small employers",
+    "category": "Finance and accounting",
+    "regulated": "finance",
+    "geo": "us_only",
+    "experience_tags": [
+      "finance",
+      "hr_recruiting"
+    ],
+    "buyer": "Independent adviser who specialises in 401(k) plans for small companies.",
+    "calls_with": "Owners and CFOs of small companies that already sponsor a plan or are starting one.",
+    "why_pay": "Plans are sticky and last for years, but owners seldom review their provider. Advisers are usually better at service than at finding the next plan.",
+    "offer": "I book introductions with owners who sponsor a plan and have not reviewed it recently. Your compliance team approves every message before it is sent.",
+    "opening_message": "[First name], I noticed you work with [real company size or sector] plans. Plan sponsors rarely review their setup unless someone asks them to, and that is the introduction I can arrange, with your compliance team clearing every message first. Could we talk about whether that is allowed for you?",
+    "where_to_find": [
+      "SEC adviser public disclosure search, within its terms",
+      "Firm websites and plan adviser association lists",
+      "For their customers: US Department of Labor Form 5500 public filings"
+    ],
+    "avoid": [
+      "Any statement about performance or fees being too high",
+      "Testimonials or endorsements without compliance review",
+      "Bulk use of FINRA or SEC lookup tools against their terms"
+    ],
+    "compliance_note": "Advisers and brokers face strict marketing rules. The SEC marketing rule covers advertisements and paid endorsements, including written agreements and disclosures for paid promoters. FINRA Rule 2210 bars false, exaggerated or promissory statements. A paid outreach service may count as a promoter, so the firm's compliance officer must approve the arrangement and all wording. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 3,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 1,
+      "open_field": 2
+    },
+    "total": 67,
+    "score_note": "Long lasting clients and public filings help, but this is one of the strictest marketing environments in the kit."
+  },
+  {
+    "id": 30,
+    "slug": "medical-billing-companies",
+    "name": "Medical billing companies serving independent practices",
+    "category": "Health",
+    "regulated": "health",
+    "geo": "us_only",
+    "experience_tags": [
+      "healthcare",
+      "accounting"
+    ],
+    "buyer": "Owner of a small medical billing service, often a former practice manager.",
+    "calls_with": "Practice managers and physician owners at independent clinics.",
+    "why_pay": "A billing client stays for years and pays monthly. Owners are heads down on claims, and practices are hard to reach without someone persistent.",
+    "offer": "I book calls with practice managers at independent clinics in your specialty. No patient information is ever touched by me or asked for in outreach.",
+    "opening_message": "[First name], since you focus on [real specialty], you know how much a denied claim costs an independent practice in staff time. I can book calls for you with practice managers in that specialty, and I never touch patient data. Would you like to see how I would pick the clinics?",
+    "where_to_find": [
+      "Healthcare billing association member lists where public",
+      "Google Maps for medical billing services",
+      "For their customers: the NPI Registry for practice names and clinic websites for manager names"
+    ],
+    "avoid": [
+      "Quoting a collection rate or revenue lift",
+      "Asking for or looking at any patient record",
+      "Pay per patient or per claim arrangements for the outreach"
+    ],
+    "compliance_note": "A company that handles patient information for a provider, including billing, is a business associate under HIPAA (45 CFR 160.103). Stay out of patient data entirely. Do not state any improvement in collections unless the client can prove it. Payment tied to patient referrals can raise problems under the federal Anti Kickback Statute (42 U.S.C. 1320a-7b). This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 2,
+      "open_field": 2
+    },
+    "total": 71,
+    "score_note": "Steady monthly revenue and a clear buyer. Health privacy and billing claims need care, and practices get a lot of this outreach."
+  },
+  {
+    "id": 31,
+    "slug": "dental-laboratories",
+    "name": "Independent dental laboratories",
+    "category": "Health",
+    "regulated": "health",
+    "geo": "global",
+    "experience_tags": [
+      "dental",
+      "healthcare",
+      "manufacturing"
+    ],
+    "buyer": "Owner and master technician of a small dental lab who still spends time at the bench.",
+    "calls_with": "General dentists and office managers at independent practices.",
+    "why_pay": "A dentist who trusts a lab sends cases every week for years. Lab owners rely on word of mouth and are losing dentists to larger or offshore labs.",
+    "offer": "I book 10 minute calls with general dentists in your region who are open to a sample case from a local lab.",
+    "opening_message": "[First name], a local lab that picks up the phone still counts for something with dentists, and your [real product or technique] looks like a good reason to try you. I can book short calls with practices in your region for a trial case. Should I send you the first few names?",
+    "where_to_find": [
+      "National Association of Dental Laboratories member search where public",
+      "Google Maps for dental laboratories",
+      "For their customers: state dental board licence lists and the NPI Registry for practice names"
+    ],
+    "avoid": [
+      "Claiming a material has clearance you have not confirmed",
+      "Any kickback, gift or rebate to a dentist for sending cases",
+      "Handling patient scans or records"
+    ],
+    "compliance_note": "Dental restorations are regulated medical devices in many countries, and some states certify or register labs. Keep to service and turnaround. Never offer anything of value for case referrals, and never touch patient data. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 3,
+      "open_field": 4
+    },
+    "total": 73,
+    "score_note": "Repeat case flow, steady all year and few people pitching labs. Dentists are hard to reach directly, and there is some regulatory care needed."
+  },
+  {
+    "id": 32,
+    "slug": "occupational-health-clinics-employers",
+    "name": "Occupational health clinics selling to employers",
+    "category": "Health",
+    "regulated": "health",
+    "geo": "us_only",
+    "experience_tags": [
+      "healthcare",
+      "safety",
+      "hr_recruiting",
+      "logistics"
+    ],
+    "buyer": "Owner or operator of an independent clinic offering drug testing, DOT physicals and injury care for employers.",
+    "calls_with": "HR managers, safety managers and owners at trucking, construction and manufacturing companies.",
+    "why_pay": "Employers send workers repeatedly once they have an account. The clinic is set up to treat people, not to knock on the doors of local employers.",
+    "offer": "I book calls with safety and HR managers near your clinic, so you can set up employer accounts for testing and physicals.",
+    "opening_message": "[First name], I noticed you handle [real service, such as DOT physicals] near [area]. Local employers tend to pick a clinic once and stay, so I book short calls with their safety and HR managers for you. Could I share the list of nearby employers I would try first?",
+    "where_to_find": [
+      "FMCSA National Registry of Certified Medical Examiners",
+      "Google Maps for occupational health clinics",
+      "For their customers: FMCSA carrier lookups, state contractor lists and local manufacturers"
+    ],
+    "avoid": [
+      "Referencing any worker's test result or injury",
+      "Promising faster return to work",
+      "Pay per patient outreach"
+    ],
+    "compliance_note": "Clinics handle protected health information, so stay away from any employee health data. Medical examiners who do commercial driver exams work through the FMCSA national registry. Fee arrangements linked to patient volume can raise problems under the federal Anti Kickback Statute where federal programs pay. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 5,
+      "compliance_safety": 2,
+      "open_field": 4
+    },
+    "total": 70,
+    "score_note": "Employer accounts repeat and few outreach services target them. Larger chains compete, and health rules limit what can be said."
+  },
+  {
+    "id": 33,
+    "slug": "home-care-agencies-referral-partners",
+    "name": "Home care agencies seeking referral partners",
+    "category": "Health",
+    "regulated": "health",
+    "geo": "us_first",
+    "experience_tags": [
+      "healthcare"
+    ],
+    "buyer": "Owner of a small non medical or skilled home care agency, usually running operations and staffing at once.",
+    "calls_with": "Hospital discharge planners, social workers, elder law attorneys and senior living staff.",
+    "why_pay": "Referral partners bring steady clients, and the owner spends most days filling caregiver shifts. Building those relationships takes time they do not have.",
+    "offer": "I arrange informational intro calls with discharge planners and elder law attorneys for a flat service fee that has nothing to do with how many clients you get.",
+    "opening_message": "[First name], it looks like you are hands on with [real service or area]. I can arrange introductions with discharge planners and elder law attorneys who want to know the local options, for a flat fee that never depends on how many clients come from it. Would that be okay with your compliance adviser?",
+    "where_to_find": [
+      "State home care licence lists where they exist",
+      "Google Maps for home care agencies",
+      "For their customers: hospital case management departments and elder law firm sites"
+    ],
+    "avoid": [
+      "Any fee per referral, per patient or per client",
+      "Giving gifts or meals to referral sources without review",
+      "Contacting patients or their families directly"
+    ],
+    "compliance_note": "High risk. Paying or receiving anything in return for referring patients whose care a federal health program may pay can be a crime under the federal Anti Kickback Statute (42 U.S.C. 1320a-7b). A pay per booked call model is the wrong offer here. Use a flat fee only, and get a health care lawyer to review the arrangement first. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 2,
+      "steady_demand": 5,
+      "compliance_safety": 1,
+      "open_field": 2
+    },
+    "total": 58,
+    "score_note": "Ranked low on purpose. Steady demand does not make up for referral laws that make the usual booked call deal dangerous."
+  },
+  {
+    "id": 34,
+    "slug": "biomedical-equipment-service-companies",
+    "name": "Independent biomedical equipment service companies",
+    "category": "Health",
+    "regulated": "health",
+    "geo": "global",
+    "experience_tags": [
+      "healthcare",
+      "engineering",
+      "facilities"
+    ],
+    "buyer": "Owner of a small independent service company that repairs and maintains clinical equipment.",
+    "calls_with": "Practice administrators, surgery center managers and biomedical leads at small hospitals.",
+    "why_pay": "Service contracts renew and each customer has many devices. Owners are technicians first and are competing against manufacturer service plans.",
+    "offer": "I book calls with surgery center managers and practice administrators to compare their service coverage, so your technicians get in front of the right person.",
+    "opening_message": "[First name], the manufacturer's service plan is often the only option a surgery center hears about, so a capable independent like [their company] rarely gets a look. I can book those comparison calls for you. Would it help if I sent a list of centers near your techs?",
+    "where_to_find": [
+      "Independent service organization lists and biomedical association members where public",
+      "Google Maps for biomedical equipment repair",
+      "For their customers: the NPI Registry, state surgery center licence lists and clinic websites"
+    ],
+    "avoid": [
+      "Claiming any device is unsafe or out of compliance",
+      "Handling anything from equipment that stores patient data",
+      "Saying the firm is authorized by a manufacturer without proof"
+    ],
+    "compliance_note": "Servicing medical devices carries regulatory and manufacturer limits. Do not make safety or compliance claims about a device. If a device holds patient data, the service company must handle it under its own privacy agreements, and you should stay out of it. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 3,
+      "findability": 3,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 3,
+      "open_field": 5
+    },
+    "total": 72,
+    "score_note": "One of the least pitched niches in the kit, with repeat service work. Buyers take effort to identify, and device rules add care."
+  },
+  {
+    "id": 35,
+    "slug": "medical-waste-haulers-small-clinics",
+    "name": "Medical waste haulers for small clinics",
+    "category": "Health",
+    "regulated": "health",
+    "geo": "us_first",
+    "experience_tags": [
+      "healthcare",
+      "logistics",
+      "environmental"
+    ],
+    "buyer": "Owner of a regional medical waste pickup company that competes with one or two national haulers.",
+    "calls_with": "Office managers at dental offices, veterinary clinics and small medical practices.",
+    "why_pay": "Pickups repeat for years and small accounts are often unhappy with contract terms at larger haulers. A regional owner wants those accounts, but each one is small.",
+    "offer": "I book calls with office managers along your pickup routes who want to compare their current hauler's contract and service.",
+    "opening_message": "[First name], small clinics often sign a waste contract once and forget about it until the auto renewal surprises them. I can book calls with office managers along your routes who want another option. Could I send a sample of the clinics I found?",
+    "where_to_find": [
+      "State environmental agency lists of licensed medical waste transporters",
+      "Google Maps for medical waste disposal",
+      "For their customers: the NPI Registry and state dental and veterinary licence lists"
+    ],
+    "avoid": [
+      "Asserting a competitor's contract is illegal or unfair",
+      "Giving regulatory advice about waste handling",
+      "Using a clinic's specific waste details"
+    ],
+    "compliance_note": "Medical waste is regulated at the state level and the transport is permitted. Do not give handling advice, and confirm the client's permits for each state before you promote them. This is not legal advice.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 2,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 3,
+      "open_field": 4
+    },
+    "total": 69,
+    "score_note": "Recurring and quiet for outreach, but each clinic is a small account, so the value of one call is low."
+  },
+  {
+    "id": 36,
+    "slug": "managed-it-providers-small-offices",
+    "name": "Managed IT providers for small offices",
+    "category": "Technology",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "it",
+      "cybersecurity",
+      "software"
+    ],
+    "buyer": "Owner of a small managed IT company, usually a technical founder running a help desk.",
+    "calls_with": "Owners and office managers at professional firms with roughly 10 to 100 staff.",
+    "why_pay": "Monthly contracts are valuable and these founders are usually more comfortable fixing servers than selling. Referrals come slowly and growth stalls.",
+    "offer": "I book calls with office managers at professional firms near you who are unhappy with their IT support. You run a short technical review on the call.",
+    "opening_message": "[First name], your [real certification or specialty] stands out, but I would guess growth still comes down to referrals. I look for professional firms near you with no clear IT partner, and I book the call for you. Want to see the kinds of firms I would look for?",
+    "where_to_find": [
+      "Vendor partner directories and Clutch style agency lists",
+      "Google Maps for managed IT services",
+      "For their customers: local law, accounting and engineering firm sites"
+    ],
+    "avoid": [
+      "Using fear about a breach as the opener",
+      "Claiming to have scanned a prospect's systems",
+      "Owners who already pay several lead generation vendors"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 5,
+      "steady_demand": 5,
+      "compliance_safety": 4,
+      "open_field": 1
+    },
+    "total": 79,
+    "score_note": "Monthly revenue and very reachable owners put this near the top. It is also one of the most heavily pitched audiences, so a generic message will fail."
+  },
+  {
+    "id": 37,
+    "slug": "cmmc-compliance-consultants",
+    "name": "CMMC compliance consultants for defense subcontractors",
+    "category": "Technology",
+    "regulated": null,
+    "geo": "us_only",
+    "experience_tags": [
+      "cybersecurity",
+      "it",
+      "government",
+      "manufacturing"
+    ],
+    "buyer": "Principal of a small cybersecurity consultancy helping defense suppliers prepare for CMMC.",
+    "calls_with": "Owners and IT leads at small manufacturers and machine shops in the defense supply chain.",
+    "why_pay": "Suppliers who handle controlled defense information have to deal with this program. Engagements are substantial, and the consultants who are expert in it are not trained in outreach.",
+    "offer": "I book calls with owners of defense subcontractors who need to understand where they stand on CMMC, starting with companies that have public defense awards.",
+    "opening_message": "[First name], your [real credential or article] on CMMC is what caught my attention. Plenty of small machine shops in the defense supply chain are unsure what applies to them. I can book calls with those owners for you. Could I send a list of subcontractors near [region]?",
+    "where_to_find": [
+      "The Cyber AB marketplace for registered practitioners and assessors",
+      "Consultant websites and government contracting events",
+      "For their customers: USAspending public award data and SAM.gov entity records"
+    ],
+    "avoid": [
+      "Implying a prospect is non compliant or about to lose contracts",
+      "Saying the consultant is certified or authorized without checking the official list",
+      "Guaranteeing a passing assessment"
+    ],
+    "compliance_note": "CMMC requirements under 32 CFR Part 170 apply to defense contractors and subcontractors handling certain information on their systems. Do not give deadlines or status for a specific company, and confirm any claimed status at the official marketplace. If you work from outside the US, do not accept drawings or technical data from these companies, because access by a foreign person can itself be an export problem.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 5,
+      "findability": 3,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 3,
+      "open_field": 4
+    },
+    "total": 79,
+    "score_note": "Valuable engagements and few pitching in this exact space. It depends on one government program, so check for changes."
+  },
+  {
+    "id": 38,
+    "slug": "erp-partners-small-manufacturers",
+    "name": "ERP implementation partners for small manufacturers",
+    "category": "Technology",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "software",
+      "manufacturing",
+      "it"
+    ],
+    "buyer": "Founder of a small ERP consultancy that implements business software for manufacturers.",
+    "calls_with": "Owners, plant managers and controllers at manufacturers still running on spreadsheets or old systems.",
+    "why_pay": "One project is a major engagement. Partners rely on software vendor leads, and those can be inconsistent, so they want a pipeline they control.",
+    "offer": "I book calls with owners and controllers at manufacturers who have outgrown their current system, focused only on the industries you already know well.",
+    "opening_message": "[First name], your work with [real product or industry] tells me you understand shop floor reality. Vendor leads come and go, so I can build you a separate source: calls with manufacturers who have outgrown their spreadsheets. Could I show you how I would spot them?",
+    "where_to_find": [
+      "ERP vendor partner directories",
+      "Clutch and similar consultancy lists",
+      "For their customers: state manufacturing extension partnerships, trade association member lists and job posts for ERP roles"
+    ],
+    "avoid": [
+      "Breaking the partner's agreement with the software vendor",
+      "Quoting a return on investment you cannot prove",
+      "Firms where a sales team already handles this"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 5,
+      "findability": 3,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 5,
+      "open_field": 3
+    },
+    "total": 75,
+    "score_note": "Project value is the strength. Many partners have some sales help already, and spotting the right moment takes research."
+  },
+  {
+    "id": 39,
+    "slug": "access-control-camera-installers",
+    "name": "Access control and camera system installers",
+    "category": "Technology",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "it",
+      "trades",
+      "facilities",
+      "safety"
+    ],
+    "buyer": "Owner of a small low voltage company that installs door access and camera systems.",
+    "calls_with": "Facility managers, school administrators, property managers and multi site retailers.",
+    "why_pay": "Each installed system can lead to a monthly service contract. The owner is usually pulling cable and quoting at the same time.",
+    "offer": "I book site review calls with facility and property managers near you, focused on buildings with older door hardware and no service agreement.",
+    "opening_message": "[First name], your [real installation] looks like clean work. Older buildings often run on systems nobody wants to touch, and that is usually where a good installer wins. I book site review calls with those facility managers. Would you like to see the first 10 buildings I would try?",
+    "where_to_find": [
+      "State low voltage or security contractor licence lists",
+      "Manufacturer dealer locators",
+      "For their customers: school administrator pages, property management firms and office park tenant lists"
+    ],
+    "avoid": [
+      "Mentioning a recent crime at the property",
+      "Claiming any system prevents break ins",
+      "Security licence states where the installer is not registered"
+    ],
+    "compliance_note": "Security and low voltage work is licensed in many states, and school projects have their own purchasing rules. Confirm licences first and do not make safety guarantees.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 4,
+      "compliance_safety": 4,
+      "open_field": 4
+    },
+    "total": 77,
+    "score_note": "Balanced across every criterion, with service revenue after install. Nothing scores very low, which is why it ranks well."
+  },
+  {
+    "id": 40,
+    "slug": "cnc-machine-shops",
+    "name": "CNC machine shops selling to engineers",
+    "category": "Manufacturing and industrial",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "manufacturing",
+      "engineering"
+    ],
+    "buyer": "Owner machinist of a shop with a few CNC machines who quotes jobs between setups.",
+    "calls_with": "Mechanical engineers, buyers and purchasing managers at product companies and equipment makers.",
+    "why_pay": "One good customer can fill machines for years, and a few customers leaving can hurt badly. The owner runs the floor and quotes at night, so nobody is out finding the next account.",
+    "offer": "I book calls with engineers and buyers who order parts you are set up to make, so your open spindle time gets filled with work that fits your machines.",
+    "opening_message": "[First name], the [real part, machine or capability from their site] tells me you can take on tighter work than most shops nearby. I find engineers and buyers who order parts like that and book the intro call. How much open spindle time do you have right now?",
+    "where_to_find": [
+      "Thomasnet and state manufacturing directories",
+      "Precision Machined Products Association and NTMA member lists where public",
+      "For their customers: engineering job posts, product companies in the region and trade show exhibitor lists"
+    ],
+    "avoid": [
+      "Shops running full with a long backlog",
+      "Promising tolerances or certifications the shop has not confirmed",
+      "ITAR work unless the client confirms registration"
+    ],
+    "compliance_note": "Defense related parts can fall under export control rules. Let the client decide whether to pursue that work, and do not advertise ITAR or similar status without proof. If you work from outside the US, do not accept drawings or technical data from these companies, because access by a foreign person can itself be an export problem.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 5,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 4,
+      "open_field": 4
+    },
+    "total": 83,
+    "score_note": "Top of the kit. The owner truly has no sales team and one customer can matter for years. Machine shops can be slow on email and demand moves with the economy."
+  },
+  {
+    "id": 41,
+    "slug": "metal-fabrication-shops",
+    "name": "Custom metal fabrication shops",
+    "category": "Manufacturing and industrial",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "manufacturing",
+      "construction",
+      "trades"
+    ],
+    "buyer": "Owner of a job shop doing laser cutting, bending and welding for local companies.",
+    "calls_with": "Purchasing managers, engineers and general contractors who buy custom fabricated parts.",
+    "why_pay": "Shop work is lumpy, and a few more steady accounts make payroll far easier. The owner is often also the estimator.",
+    "offer": "I book intro calls with buyers at equipment makers and contractors who need a fabricator within driving distance of your shop.",
+    "opening_message": "[First name], I saw the [real project from their site] you fabricated. Most job shops feel the swings when one big account goes quiet, so I book calls with nearby buyers who could become steady work. Could I send you a list of equipment makers within your delivery range?",
+    "where_to_find": [
+      "Thomasnet and FMA member lists where public",
+      "Google Maps for metal fabrication",
+      "For their customers: industrial park tenant lists, machinery makers and building contractors"
+    ],
+    "avoid": [
+      "Quoting lead times you cannot check",
+      "Selling welding certifications the shop does not hold",
+      "Shops with one customer that takes all their capacity"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 81,
+    "score_note": "Owner sold and low risk. Value per account is a little lower than precision machining, and demand follows local industry."
+  },
+  {
+    "id": 42,
+    "slug": "small-injection-molders",
+    "name": "Small plastic injection molders",
+    "category": "Manufacturing and industrial",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "manufacturing",
+      "engineering"
+    ],
+    "buyer": "Owner or general manager of a small molding company with a handful of presses.",
+    "calls_with": "Product developers, sourcing managers and engineers at companies bringing parts back from overseas.",
+    "why_pay": "A single program can run for years. Small molders do not exhibit widely and depend on repeat customers who eventually move on or close.",
+    "offer": "I book calls with sourcing managers and product teams looking for a domestic molder, starting with parts that match your press sizes.",
+    "opening_message": "[First name], with your [real press range or material], you likely suit programs too small for the big molders. I find sourcing managers and product teams looking for that kind of partner and book the intro. What part sizes would you most like to see more of?",
+    "where_to_find": [
+      "Thomasnet and Plastics Industry Association member lists where public",
+      "State manufacturing directories",
+      "For their customers: product launch news, engineering job posts and trade show exhibitor lists"
+    ],
+    "avoid": [
+      "Calling a program won when only a quote was asked for",
+      "Promising tooling lead times",
+      "Medical or food parts unless the molder holds the right certifications"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 5,
+      "findability": 3,
+      "email_reach": 3,
+      "steady_demand": 4,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 80,
+    "score_note": "Very high value per program. Finding the right sourcing contact takes more research than in most other niches."
+  },
+  {
+    "id": 43,
+    "slug": "industrial-water-treatment-dealers",
+    "name": "Industrial water treatment service dealers",
+    "category": "Manufacturing and industrial",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "manufacturing",
+      "facilities",
+      "environmental",
+      "engineering"
+    ],
+    "buyer": "Owner of a regional water treatment company servicing boilers and cooling towers.",
+    "calls_with": "Plant engineers and facility managers at plants, hospitals, data rooms and large buildings.",
+    "why_pay": "Service accounts renew and a customer often stays for many years. Regional firms have strong technical staff and very little outreach.",
+    "offer": "I book calls with plant engineers and facility managers who run boilers and cooling towers near your technicians.",
+    "opening_message": "[First name], chemical programs tend to stay in place for years unless someone asks to look at them. I set up short calls with plant engineers and facility managers near your technicians so that someone is you. Could I share the sites I would try first?",
+    "where_to_find": [
+      "Association of Water Technologies member lists where public",
+      "Google Maps for water treatment services",
+      "For their customers: state environmental permit lists and local manufacturers"
+    ],
+    "avoid": [
+      "Claiming water savings you cannot measure",
+      "Advising on chemical handling or permits",
+      "Implying a site has a Legionella problem"
+    ],
+    "compliance_note": "Chemical handling and discharge are regulated, and health related claims about water systems are sensitive. Stick to service coverage and never suggest a site has a problem.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 3,
+      "findability": 3,
+      "email_reach": 3,
+      "steady_demand": 5,
+      "compliance_safety": 4,
+      "open_field": 5
+    },
+    "total": 74,
+    "score_note": "Quiet market with long customer relationships. Reaching the right plant contact takes effort, and each account is moderate in value."
+  },
+  {
+    "id": 44,
+    "slug": "small-3pl-warehouses-ecommerce",
+    "name": "Small third party logistics warehouses for ecommerce brands",
+    "category": "Logistics",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "logistics",
+      "software"
+    ],
+    "buyer": "Owner of a small fulfilment warehouse that ships for ecommerce brands.",
+    "calls_with": "Founders and operations leads at growing online brands.",
+    "why_pay": "A brand with steady orders is steady monthly work, and every lost client leaves empty rack space. The owner runs the floor and has no sales lead.",
+    "offer": "I book calls with online brands that have outgrown shipping from their own garage or that are unhappy with their current warehouse.",
+    "opening_message": "[First name], empty rack space is expensive, and I would guess [their company] does better with brands that ship [real product type]. I look for those brands and book the call. Should I send you the first 10 I find?",
+    "where_to_find": [
+      "Google Maps and ecommerce platform partner directories",
+      "Warehouse and fulfilment marketplaces",
+      "For their customers: online store directories, and brands with operations job posts"
+    ],
+    "avoid": [
+      "Promising shipping times you cannot check",
+      "Regulated goods like supplements unless the warehouse is set up for them",
+      "Brands too small to cover minimum fees"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 5,
+      "steady_demand": 4,
+      "compliance_safety": 5,
+      "open_field": 2
+    },
+    "total": 81,
+    "score_note": "Founders are easy to reach and the revenue repeats. The ecommerce audience gets plenty of pitches, which lowers the last score."
+  },
+  {
+    "id": 45,
+    "slug": "dedicated-regional-trucking-fleets",
+    "name": "Regional trucking fleets seeking dedicated contracts",
+    "category": "Logistics",
+    "regulated": null,
+    "geo": "us_first",
+    "experience_tags": [
+      "logistics",
+      "manufacturing"
+    ],
+    "buyer": "Owner of a small fleet who is tired of the spot market and wants dedicated lanes.",
+    "calls_with": "Shipping managers and logistics leads at manufacturers, distributors and food producers.",
+    "why_pay": "Dedicated freight pays more steadily than load boards. The owner is dispatching, hiring drivers and fixing trucks, so direct shippers never hear from them.",
+    "offer": "I book calls with shipping managers along your regular lanes, so you can move from load boards to direct freight.",
+    "opening_message": "[First name], I see you run [real lane or equipment type]. Direct freight rarely comes off a load board, it comes from a shipping manager who knows your name. I book those calls along your regular lanes. Which lane would you most like to fill first?",
+    "where_to_find": [
+      "FMCSA carrier lookup for fleet size and authority",
+      "State trucking association member lists where public",
+      "For their customers: manufacturer directories and distribution centers"
+    ],
+    "avoid": [
+      "Promising a rate or capacity the carrier has not confirmed",
+      "Carriers with poor safety records you can see publicly",
+      "Freight brokers who need a different pitch"
+    ],
+    "compliance_note": "Motor carriers must hold the right operating authority. Check it in FMCSA records before promoting them.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 4,
+      "findability": 5,
+      "email_reach": 3,
+      "steady_demand": 3,
+      "compliance_safety": 4,
+      "open_field": 2
+    },
+    "total": 78,
+    "score_note": "Public federal records make owners easy to list, and few have sales help. Email is weak, and shippers hear from carriers and brokers all the time."
+  },
+  {
+    "id": 46,
+    "slug": "office-relocation-movers",
+    "name": "Commercial office relocation movers",
+    "category": "Logistics",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "logistics",
+      "facilities",
+      "property"
+    ],
+    "buyer": "Owner of a moving company that wants commercial moves instead of household work.",
+    "calls_with": "Office managers, facility leads and commercial real estate brokers.",
+    "why_pay": "Commercial moves are larger and scheduled in advance. The owner has trucks and crew, but the household side keeps them too busy to pursue offices.",
+    "offer": "I book intro calls with commercial brokers and facility managers who know which companies are about to move.",
+    "opening_message": "[First name], I noticed you handle [real commercial move or service]. Companies planning a move usually tell their broker long before they call a mover, so I book intros with those brokers and with facility managers near you. Can I show you who I would approach first?",
+    "where_to_find": [
+      "FMCSA and state mover licence lookups",
+      "Google Maps for commercial moving companies",
+      "For their customers: commercial broker sites and news of local lease signings"
+    ],
+    "avoid": [
+      "Rewarding brokers for referrals without checking state rules",
+      "Household moves, which rely on consumer contact",
+      "Promising a move with no downtime"
+    ],
+    "compliance_note": "Movers need the correct operating authority. Confirm the licence, and do not pay real estate brokers for referrals without checking their rules first.",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 3,
+      "findability": 3,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 73,
+    "score_note": "Few people pitch this as a specialty. Moves are one time, so value depends on brokers who send repeat business."
+  },
+  {
+    "id": 47,
+    "slug": "workplace-safety-training-providers",
+    "name": "Workplace safety training providers",
+    "category": "Business services",
+    "regulated": null,
+    "geo": "us_only",
+    "experience_tags": [
+      "safety",
+      "construction",
+      "manufacturing",
+      "hr_recruiting"
+    ],
+    "buyer": "Owner of a small safety consulting and training business, often a former site safety manager.",
+    "calls_with": "Safety managers, HR managers and owners at construction and manufacturing companies.",
+    "why_pay": "Companies need training again as staff change, so a customer returns. Owners are usually delivering courses and have no time left to sell them.",
+    "offer": "I book calls with HR and safety managers at construction and manufacturing firms near you, so your training days stay booked.",
+    "opening_message": "[First name], with your [real background or course], I expect the training is the easy part and filling the calendar is the hard part. I can book calls with safety and HR managers near you. Would you like to see which employers I would contact first?",
+    "where_to_find": [
+      "OSHA Training Institute Education Center lists and authorised trainer directories",
+      "Google Maps for safety training and consulting",
+      "For their customers: state contractor licence lists and manufacturing directories"
+    ],
+    "avoid": [
+      "Calling a course OSHA approved unless it truly is",
+      "Naming a company's safety record in the message",
+      "Promising fewer accidents or lower insurance costs"
+    ],
+    "compliance_note": "Be careful with official sounding wording. Do not say a course is approved or certified by a government agency unless that is confirmed. Do not reference a prospect's inspection history in your outreach.",
+    "scores": {
+      "no_sales_team": 5,
+      "call_value": 3,
+      "findability": 4,
+      "email_reach": 3,
+      "steady_demand": 4,
+      "compliance_safety": 4,
+      "open_field": 4
+    },
+    "total": 77,
+    "score_note": "Owner sold with repeat buyers and little outreach competition. Value per course is moderate, and the audience can be hard to reach by email."
+  },
+  {
+    "id": 48,
+    "slug": "light-industrial-staffing-agencies",
+    "name": "Light industrial staffing agencies",
+    "category": "Business services",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "hr_recruiting",
+      "manufacturing",
+      "logistics"
+    ],
+    "buyer": "Owner of a local staffing agency that fills warehouse and factory roles.",
+    "calls_with": "Plant managers, warehouse managers and HR leads.",
+    "why_pay": "Each client can bring recurring placements. Agencies have recruiters but are often short on someone opening new client accounts.",
+    "offer": "I book calls with plant and warehouse managers who are hiring for roles you already fill, using their public job posts as the reason to reach out.",
+    "opening_message": "[First name], you already fill roles like [real role] in [area], and I keep seeing warehouses posting for the same jobs. I book calls with those hiring managers for you. Could I send over this week's openings near you?",
+    "where_to_find": [
+      "American Staffing Association member lists where public",
+      "Google Maps and state staffing licence lists where they exist",
+      "For their customers: public job boards, filtered by roles and location"
+    ],
+    "avoid": [
+      "Agencies that already have a business development team",
+      "Promising hires within a set time",
+      "Implying the agency handles employment law for the client"
+    ],
+    "compliance_note": "Employment agencies are licensed in some states, and hiring must follow anti discrimination rules. Avoid any wording about who the client would or would not hire.",
+    "scores": {
+      "no_sales_team": 2,
+      "call_value": 4,
+      "findability": 5,
+      "email_reach": 4,
+      "steady_demand": 3,
+      "compliance_safety": 3,
+      "open_field": 1
+    },
+    "total": 65,
+    "score_note": "Job posts make buyers very easy to find. The problem is that many agencies have sales staff, and every plant manager hears this pitch."
+  },
+  {
+    "id": 49,
+    "slug": "corporate-catering-companies",
+    "name": "Corporate catering companies",
+    "category": "Business services",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "food_service",
+      "events"
+    ],
+    "buyer": "Owner of a local catering business that wants regular office lunches rather than one off weddings.",
+    "calls_with": "Office managers and executive assistants at offices and professional firms.",
+    "why_pay": "Regular office orders are steadier than weddings. The owner is in the kitchen, and office managers are not looking for a new caterer until they get tired of the current one.",
+    "offer": "I book tasting calls with office managers near your kitchen who order lunch for meetings every week.",
+    "opening_message": "[First name], your [real dish or event] looks great, and office lunches could keep your kitchen busy on quiet weekdays. I find the office managers who order regularly near you and book a quick tasting call. Should I start with the offices closest to your kitchen?",
+    "where_to_find": [
+      "Google Maps for caterers",
+      "Local catering listings and business association members",
+      "For their customers: office park tenant lists and professional firm sites"
+    ],
+    "avoid": [
+      "Food allergy or dietary promises",
+      "Caterers with no capacity on weekdays",
+      "Pitching only on price"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 3,
+      "call_value": 2,
+      "findability": 5,
+      "email_reach": 4,
+      "steady_demand": 4,
+      "compliance_safety": 5,
+      "open_field": 3
+    },
+    "total": 71,
+    "score_note": "Easy to find and low risk, with repeat orders. A single account is small, so an outreach fee can be hard to justify."
+  },
+  {
+    "id": 50,
+    "slug": "trade-show-booth-builders",
+    "name": "Trade show booth builders",
+    "category": "Business services",
+    "regulated": null,
+    "geo": "global",
+    "experience_tags": [
+      "events",
+      "manufacturing"
+    ],
+    "buyer": "Owner of a small exhibit house that designs and builds custom booths.",
+    "calls_with": "Marketing managers and owners at companies that exhibit at trade shows.",
+    "why_pay": "Exhibitors are named publicly months before each event, so the timing is clear. Small exhibit houses are busy before each show and go quiet after.",
+    "offer": "I book calls with marketing managers at companies booked into upcoming shows that you can serve, early enough for a real design project.",
+    "opening_message": "[First name], your [real booth or client] shows you can do more than rental kits. Exhibitor lists come out months before a show, so I contact those marketing teams early and book the call. Which upcoming show would you most like to get work from?",
+    "where_to_find": [
+      "Exhibit designer and producer association lists where public",
+      "Google Maps and exhibit industry directories",
+      "For their customers: public exhibitor lists on trade show websites"
+    ],
+    "avoid": [
+      "Contacting exhibitors right before the show when budgets are spent",
+      "Union labor promises you cannot verify",
+      "Claiming a booth will increase leads"
+    ],
+    "compliance_note": "",
+    "scores": {
+      "no_sales_team": 4,
+      "call_value": 4,
+      "findability": 4,
+      "email_reach": 4,
+      "steady_demand": 2,
+      "compliance_safety": 5,
+      "open_field": 4
+    },
+    "total": 78,
+    "score_note": "Public exhibitor lists give clear timing and few outreach services work this field. Demand clusters around show calendars."
+  }
+]

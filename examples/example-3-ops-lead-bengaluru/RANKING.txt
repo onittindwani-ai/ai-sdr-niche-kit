@@ -1,0 +1,40 @@
+AI SDR Niche Kit ranking
+Scores are judgment scores against RUBRIC.md, not market data.
+Profile: SYNTHETIC EXAMPLE: an invented person, a logistics operations lead in Bengaluru who will sell by email only
+Experience tags: logistics, software
+Customers in: IN
+Weights: no_sales_team=4, call_value=4, findability=3, email_reach=6, steady_demand=2, compliance_safety=2, open_field=3
+
+Rank Fit    Base   Exp  Geo  Reg      Niche
+1    96.7   81.7   15   0    no       Small third party logistics warehouses for ecommerce brands  [small-3pl-warehouses-ecommerce]
+2    89.2   79.2   10   0    no       Managed IT providers for small offices  [managed-it-providers-small-offices]
+3    86.7   76.7   10   0    no       Commercial door and loading dock repair companies  [loading-dock-commercial-door-repair]
+4    85     75     10   0    no       ERP implementation partners for small manufacturers  [erp-partners-small-manufacturers]
+5    84.2   74.2   10   0    no       Commercial office relocation movers  [office-relocation-movers]
+6    80.8   80.8   0    0    no       Land surveying firms  [land-surveying-firms]
+7    80     80     0    0    no       CNC machine shops selling to engineers  [cnc-machine-shops]
+8    79.2   79.2   0    0    no       Commercial kitchen exhaust hood cleaning companies  [commercial-kitchen-exhaust-cleaning]
+9    78.3   78.3   0    0    no       Commercial flat roof repair contractors  [commercial-flat-roof-repair]
+10   78.3   78.3   0    0    no       Custom metal fabrication shops  [metal-fabrication-shops]
+
+Showing 10 of 32 ranked niches.
+Left out: 18.
+  Immigration law firms serving employers: Regulated (legal) and you chose to leave those out.
+  Employment law boutiques serving small employers: Regulated (legal) and you chose to leave those out.
+  Trademark and small IP firms for consumer brands: Regulated (legal) and you chose to leave those out.
+  Small CPA firms wanting business tax and advisory clients: Regulated (finance) and you chose to leave those out.
+  Bookkeeping firms specialised in contractors: Regulated (finance) and you chose to leave those out.
+  Fractional CFO firms: Regulated (finance) and you chose to leave those out.
+  R and D tax credit consultants: Regulated (finance) and you chose to leave those out.
+  Independent commercial insurance agencies for contractors: Regulated (finance) and you chose to leave those out.
+  Employee benefits brokers for small employers: Regulated (finance) and you chose to leave those out.
+  Retirement plan advisers for small employers: Regulated (finance) and you chose to leave those out.
+  Medical billing companies serving independent practices: Regulated (health) and you chose to leave those out.
+  Independent dental laboratories: Regulated (health) and you chose to leave those out.
+  Occupational health clinics selling to employers: Regulated (health) and you chose to leave those out.
+  Home care agencies seeking referral partners: Regulated (health) and you chose to leave those out.
+  Independent biomedical equipment service companies: Regulated (health) and you chose to leave those out.
+  Medical waste haulers for small clinics: Regulated (health) and you chose to leave those out.
+  CMMC compliance consultants for defense subcontractors: Depends on US law or US programs, and your customers are outside the US.
+  Workplace safety training providers: Depends on US law or US programs, and your customers are outside the US.
+Fit = Base (your weights, out of 100) + Exp (your experience) + Geo (your country). Fit can go above 100.

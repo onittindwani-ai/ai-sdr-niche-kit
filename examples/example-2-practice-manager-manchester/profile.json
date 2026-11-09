@@ -1,0 +1,14 @@
+{
+  "label": "SYNTHETIC EXAMPLE: an invented person, a former dental practice manager in Manchester",
+  "experience_tags": ["dental", "healthcare"],
+  "country": "UK",
+  "exclude_regulated": false,
+  "exclude_slugs": ["home-care-agencies-referral-partners"],
+  "weights": {"compliance_safety": 3},
+  "overrides": {
+    "dental-laboratories": {
+      "scores": {"email_reach": 4},
+      "reason": "Invented example: knows which practice inboxes get read and who reads them."
+    }
+  }
+}

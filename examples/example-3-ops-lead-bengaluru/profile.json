@@ -1,0 +1,9 @@
+{
+  "label": "SYNTHETIC EXAMPLE: an invented person, a logistics operations lead in Bengaluru who will sell by email only",
+  "experience_tags": ["logistics", "software"],
+  "country": "IN",
+  "exclude_regulated": true,
+  "exclude_slugs": [],
+  "weights": {"email_reach": 6, "open_field": 3},
+  "overrides": {}
+}

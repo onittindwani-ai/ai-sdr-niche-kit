@@ -1,0 +1,14 @@
+{
+  "label": "SYNTHETIC EXAMPLE: an invented person, a former commercial HVAC technician in Ohio",
+  "experience_tags": ["trades", "facilities", "construction"],
+  "country": "US",
+  "exclude_regulated": true,
+  "exclude_slugs": [],
+  "weights": {"call_value": 5},
+  "overrides": {
+    "commercial-hvac-service-contracts": {
+      "scores": {"no_sales_team": 5, "findability": 5},
+      "reason": "Invented example: worked at 2 local shops, knows the owners do the selling, and knows the facility managers who buy."
+    }
+  }
+}

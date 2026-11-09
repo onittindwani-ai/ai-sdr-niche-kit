@@ -1,0 +1,7 @@
+label,side,company,contact_role,first_name,email,city,source_of_this_record,real_detail_found,owner_approved,status
+SYNTHETIC EXAMPLE,owner who would pay you,Example Precision Works,Owner,Morgan,morgan@example.com,Dayton,State manufacturing directory,Site shows 5 axis parts for pumps,no,not contacted
+SYNTHETIC EXAMPLE,owner who would pay you,Sample Tool and Die,Owner,Riley,riley@example.org,Toledo,Trade association member page,Recently added a second lathe,no,not contacted
+SYNTHETIC EXAMPLE,owner who would pay you,Demo Machining Co,General manager,Casey,casey@example.net,Akron,Thomasnet listing,Lists stainless and titanium work,no,not contacted
+SYNTHETIC EXAMPLE,customer you would book for them,Example Pump Systems,Purchasing manager,Jordan,jordan@example.com,Columbus,Company careers page,Hiring a mechanical engineer,yes,approved to contact
+SYNTHETIC EXAMPLE,customer you would book for them,Sample Valve Group,Mechanical engineer,Taylor,taylor@example.org,Cleveland,Trade show exhibitor list,New valve line announced,yes,approved to contact
+SYNTHETIC EXAMPLE,customer you would book for them,Demo Fluid Controls,Sourcing lead,Avery,avery@example.net,Cincinnati,Product news page,Moving a part from overseas,yes,asked to stop

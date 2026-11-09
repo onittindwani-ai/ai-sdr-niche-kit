@@ -1,0 +1,118 @@
+{
+  "note": "Scores are judgment scores against this rubric. They are not market data. Every score is 1 to 5, and a higher score is always better for you.",
+  "scale_min": 1,
+  "scale_max": 5,
+  "criteria": [
+    {
+      "key": "no_sales_team",
+      "name": "Owner has no sales team",
+      "weight": 4,
+      "question": "Does the owner personally do the selling, with nobody to set up or run sales software?",
+      "anchors": {
+        "1": "Most firms like this already have salespeople or a sales manager.",
+        "3": "About half and half. The owner sells, but some firms have a rep.",
+        "5": "The owner does nearly all the selling, between doing the actual work."
+      }
+    },
+    {
+      "key": "call_value",
+      "name": "Value of one booked call",
+      "weight": 4,
+      "question": "If one booked call turns into a customer, how much is that worth to this owner, compared with what they would pay you?",
+      "anchors": {
+        "1": "One new customer is small. It would take many to justify a monthly fee.",
+        "3": "One new customer would plausibly cover a month of your fee.",
+        "5": "One new customer is large or stays for years, so a few calls can justify the whole service."
+      }
+    },
+    {
+      "key": "findability",
+      "name": "How findable the buyers are",
+      "weight": 3,
+      "question": "Can you list both sides from public sources: the owners who would pay you, and the customers you would book calls with? Score the weaker side.",
+      "anchors": {
+        "1": "One side has no public list and needs guesswork.",
+        "3": "Both sides can be listed, with real manual research.",
+        "5": "Both sides appear in public licence records, permits or directories."
+      }
+    },
+    {
+      "key": "email_reach",
+      "name": "How reachable by email",
+      "weight": 3,
+      "question": "Do both sides have business email addresses they read? Score the weaker side.",
+      "anchors": {
+        "1": "One side mostly has no public business email (for example consumers or field crews).",
+        "3": "Addresses exist, but they are often shared inboxes or read rarely.",
+        "5": "Named people read their business email as part of the job."
+      }
+    },
+    {
+      "key": "steady_demand",
+      "name": "Seasonality (steady all year scores high)",
+      "weight": 2,
+      "question": "Can this owner take new calls in every month of the year?",
+      "anchors": {
+        "1": "Most of the year's buying happens in one season.",
+        "3": "Clear busy and quiet periods, but work all year.",
+        "5": "Steady need in every month."
+      }
+    },
+    {
+      "key": "compliance_safety",
+      "name": "Compliance risk (low risk scores high)",
+      "weight": 2,
+      "question": "How much could rules restrict the messages you send, or how you get paid?",
+      "anchors": {
+        "1": "Strict professional or referral rules. The usual pay per call deal may not be allowed.",
+        "3": "Licensing or marketing rules that need written sign off from the client.",
+        "5": "Only the ordinary rules for commercial email apply."
+      }
+    },
+    {
+      "key": "open_field",
+      "name": "How crowded (a quiet market scores high)",
+      "weight": 2,
+      "question": "How rarely do these owners hear this pitch from other outreach services?",
+      "anchors": {
+        "1": "Owners get pitched about leads constantly.",
+        "3": "Some outreach services work this niche, but it is not saturated.",
+        "5": "Almost nobody is doing this outreach."
+      }
+    }
+  ],
+  "experience_tags": {
+    "accounting": "Bookkeeping, tax or accounting work",
+    "construction": "Construction, contracting or building",
+    "cybersecurity": "Security or compliance for IT",
+    "dental": "Dental offices or dental labs",
+    "engineering": "Engineering of any kind",
+    "environmental": "Environmental or energy work",
+    "events": "Events, exhibits or media",
+    "facilities": "Running buildings or maintenance",
+    "finance": "Finance roles or financial services",
+    "food_service": "Restaurants, kitchens or food production",
+    "government": "Government contracts or defense supply",
+    "healthcare": "Clinics, hospitals or medical offices",
+    "hr_recruiting": "HR, hiring or staffing",
+    "insurance": "Insurance",
+    "it": "IT support, networks or systems",
+    "legal": "Law firms or legal work",
+    "logistics": "Trucking, warehousing or shipping",
+    "manufacturing": "Factories, machine shops or production",
+    "property": "Property management or landlords",
+    "real_estate": "Real estate sales or brokerage",
+    "safety": "Workplace safety",
+    "software": "Software or online businesses",
+    "trades": "Skilled trades and field service"
+  },
+  "fit_rules": {
+    "experience_bonus_one_tag": 10,
+    "experience_bonus_two_or_more_tags": 15,
+    "geo": {
+      "global": {"label": "The idea works in most countries, though the named lead sources are often US ones", "outside_us_adjustment": 0},
+      "us_first": {"label": "Written for the US, needs local rules and sources elsewhere", "outside_us_adjustment": -10},
+      "us_only": {"label": "Depends on US law or US programs", "outside_us_adjustment": null}
+    }
+  }
+}
